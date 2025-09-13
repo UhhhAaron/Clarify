@@ -1,5 +1,5 @@
 # Clarify
-JSON parser for Spotify userdata interpretation, written in Python. This was originally intended to be a more ambitious project, with a website, Deezer/Spotify API integration, and essentially serving as a third-party "wrapped" that is accessible all year round! I never got around to it, unfortunately...
+JSON parser for Spotify userdata interpretation, written in Python. This was written a few years back, and was originally intended to be a more ambitious project that had a website, Deezer/Spotify API integration, and essentially served as a third-party "wrapped" that is accessible all year round! I never got around to it, unfortunately...
 
 
 # How to Use
